@@ -1,0 +1,26 @@
+[
+    {
+        "id": "S1001",
+        "firstName": "Student1",
+        "lastName": "ABC",
+        "email": "dummyMail1@gmail.com",
+        "password": "pass123",
+        "collegeId": "col-102"
+    },
+    {
+        "id": "S1002",
+        "email": "dummyMail2@gmail.com",
+        "firstName": "Student2",
+        "lastName": "ABC",
+        "password": "pass123",
+        "collegeId": "col-101"
+    },
+    {
+        "id": "S1003",
+        "email": "dummyMail3@gmail.com",
+        "firstName": "Student2",
+        "lastName": "ABC",
+        "password": "pass123",
+        "collegeId": "col-101"
+    }
+]

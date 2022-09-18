@@ -1,0 +1,14 @@
+[
+    {
+        "id": "col-101",
+        "name": "College1",
+        "location": "Gujarat",
+        "rating": 5.0
+    },
+    {
+        "id": "col-102",
+        "name": "College2",
+        "location": "Karnataka",
+        "rating": 4.5
+    }
+]

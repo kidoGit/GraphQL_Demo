@@ -1,0 +1,33 @@
+type Query  {
+    test: String
+    books: [Book]
+    students: [Student]
+    colleges: [College]
+    studentById(id:ID!):Student
+    collegeById(id:ID!):College
+}
+
+type Mutation {
+    addBook(title:String, author:String):String
+}
+
+type Book {
+    id: String
+    title: String
+    author: String
+}
+
+type Student {
+   id:ID!
+   firstName:String
+   lastName:String
+   fullName:String
+   email: String
+}
+
+type College {
+   id:ID!
+   name:String
+   location:String
+   rating:Float
+}
